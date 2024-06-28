@@ -55,6 +55,9 @@ Adapt marketing campaigns and inventory management based on regional sales perfo
 
 **Visual Components**
 
+![image](https://github.com/nguni/Online-Sales-Analysis-Dashboard/assets/49798653/19eb37a7-c606-4a70-ac80-8127daab1c77)
+
+
 **Total Sales by Payment Method:**
 
 A donut chart visualizes the share of total sales by different payment methods.
